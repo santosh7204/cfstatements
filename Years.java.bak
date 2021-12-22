@@ -1,0 +1,9 @@
+class Years{
+  public static void main(String []args){
+    String []month={"janauary","february","march","april","may","june"};
+    System.out.println(month[])
+  
+  
+  
+  }
+}
